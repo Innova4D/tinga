@@ -175,6 +175,10 @@ desesperado -2
 desesperada -2
 desesperados -2
 desesperadas -2
+desgraciada -2
+desgraciado -2
+desgraciadas -2
+desgraciados -2
 deshonesto -2
 deshonesta -2
 deshonestos -2
@@ -667,6 +671,10 @@ vago -1
 vaga -1
 vagos -1
 vagas -1
+vejete -1
+vejetes -1
+viejete -1
+viejetes -1
 vergonzoso -1
 vergonzosa -1
 vergonzosos -1

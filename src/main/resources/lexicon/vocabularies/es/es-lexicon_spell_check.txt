@@ -61423,7 +61423,9 @@ natívo
 naufragio 
 naufragios 
 naufragis 
-naufragó 
+naufragó
+náusea
+náuseas 
 nauseabundo 
 navaja 
 navajas 
@@ -61475,12 +61477,6 @@ nazismo
 naçom 
 naúseas 
 naútico 
-nbmbnganización 
-ndamuranda 
-ndash 
-nde 
-ndembu 
-ne 
 near 
 neblina 
 neblinas 
@@ -84234,23 +84230,23 @@ completamente
 considerablemente 
 infinitamente 
 más 
-menos 0.5
+menos
 mucho 
 mucha 
 muchos 
 muchas 
 muy 
-poco 0.5
-poca 0.5
-pocas 0.5
-pocos 0.5
-realmente .5
-quizá 0.5
-quizás 0.5
-sólo 0.5
-solamente 0.5
-sinceramente .5
-únicamente 0.5
+poco
+poca
+pocas
+pocos
+realmente
+quizá
+quizás
+sólo
+solamente
+sinceramente
+únicamente
 super 
 tan 
 totalmente 

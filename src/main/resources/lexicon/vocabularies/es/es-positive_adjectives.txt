@@ -136,10 +136,6 @@ cautivadores 1
 cautivadoras 1
 cierto 1
 ciertas 1
-claro 1
-clara 1
-claros 1
-claras 1
 coherente 1
 coherente 1
 colosal 1
@@ -238,6 +234,14 @@ emocionantes 1
 encantador 1
 encantadora 1
 encantadores 1
+entretenida 1
+entretenidas 1
+entretenido 1
+entretenidos 1
+entretenidísima 2
+entretenidísimas 2
+entretenidísimo 2
+entretenidísimos 2
 esclarecedor 1
 esclarecedores 1
 especial 1
@@ -254,10 +258,6 @@ esplendorosos 2
 esplendorosas 2
 estimulante 1
 estimulantes 1
-estática 1
-estático 1
-estáticas 1
-estáticos 1
 estupendo 2
 estupenda 2
 estupendos 2
@@ -610,8 +610,8 @@ valiente 1
 valientes 1
 vanguardista 1
 vanguardistas 1
-veraz 2
-verazes 2
+veraz 1
+veraces 1
 verdadero 1
 verdadera 1
 verdaderos 1

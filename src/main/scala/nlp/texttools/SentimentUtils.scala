@@ -69,7 +69,7 @@ object SentimentUtils{
 
   /* If HashTag is in CamelCase it is splited by words*/
   def splitHashTag(text: String): String = {
-    val ht = new Regex("[A-Z]")
+    val ht = new Regex("[A-Z][a-z]+")
     text.split("( )+").map(w => if(w.startsWith("#"))
                                   ht replaceAllIn(w, m => " " + Matcher.quoteReplacement(m.matched).toLowerCase)
                                 else w).mkString(" ")

@@ -47,7 +47,6 @@ creatividad 1
 dedicación
 determinación 1
 dicha 1
-dichas 1
 diversión 1
 diversiones 1
 dulce 1
@@ -78,6 +77,7 @@ genio 1
 golazo 2
 grandeza 1
 gratificación 1
+gratitud 1
 héroe 1
 heroismo 1
 hermosura 2
